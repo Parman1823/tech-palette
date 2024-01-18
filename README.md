@@ -73,7 +73,7 @@ DB='YOUR_MONGO_CREDENTIALS'
 
 
 
-Visit http://localhost:3000 in your web browser to access the **OgniStar** application 🎉.
+Visit http://localhost:3000 in your web browser to access the **Tech Palette** application 🎉.
     
 ## 🛡 License
 
